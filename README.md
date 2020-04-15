@@ -74,7 +74,7 @@
 [293. 翻转游戏](https://leetcode-cn.com/problems/flip-game/)   
 [294. 翻转游戏 II](https://leetcode-cn.com/problems/flip-game-ii/)  
 [292. Nim 游戏](https://leetcode-cn.com/problems/nim-game/)    
-877. 石子游戏  
+[877. 石子游戏](https://leetcode-cn.com/problems/stone-game/)    
 1140. 石子游戏 II  
 348. 判定井字棋胜负  
 794. 有效的井字游戏   
