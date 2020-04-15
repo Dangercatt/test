@@ -70,8 +70,8 @@
 808. 分汤  
 837. 新21点  
 博弈型DP  
-293. 翻转游戏  
-294. 翻转游戏 II  
+[293. 翻转游戏](https://leetcode-cn.com/problems/flip-game/)   
+[294. 翻转游戏 II](https://leetcode-cn.com/problems/flip-game-ii/)  
 292. Nim 游戏  
 877. 石子游戏  
 1140. 石子游戏 II  
