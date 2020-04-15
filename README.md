@@ -82,3 +82,4 @@
 二分查找法  
 [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)  
 [278. 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/)  
+[1201. 丑数 III](https://leetcode-cn.com/problems/ugly-number-iii/)  
