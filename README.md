@@ -79,6 +79,6 @@
 348. 判定井字棋胜负  
 794. 有效的井字游戏   
 1275. 找出井字棋的获胜者  
-二分查找法
+二分查找法  
 [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)  
 [278. 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/)  
