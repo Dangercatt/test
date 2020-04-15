@@ -68,8 +68,9 @@
 1137. 第 N 个泰波那契数    
 概率型DP  
 808. 分汤  
+837. 新21点   
 837. 新21点  
-博弈型DP  
+<font color=red>博弈论DP</font>  
 [293. 翻转游戏](https://leetcode-cn.com/problems/flip-game/)   
 [294. 翻转游戏 II](https://leetcode-cn.com/problems/flip-game-ii/)  
 292. Nim 游戏  
