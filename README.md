@@ -87,6 +87,11 @@
 [887. 鸡蛋掉落](https://leetcode-cn.com/problems/super-egg-drop/submissions/).  
 [354. 俄罗斯套娃信封问题](https://leetcode-cn.com/problems/russian-doll-envelopes/). 
 
+计算器实现
+[面试题 16.26. 计算器](https://leetcode-cn.com/problems/calculator-lcci/)  
+[224. 基本计算器](https://leetcode-cn.com/problems/basic-calculator/)  
+[227. 基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii/)  
+[772. 基本计算器 III](https://leetcode-cn.com/problems/basic-calculator-iii/)  
 
 
 
