@@ -103,4 +103,5 @@
 [310. 最小高度树](https://leetcode-cn.com/problems/minimum-height-trees/)  
 [210. 课程表 II](https://leetcode-cn.com/problems/course-schedule-iii/)  
 [332. 重新安排行程](https://leetcode-cn.com/problems/reconstruct-itinerary/)    
-[1162. 地图分析](https://leetcode-cn.com/problems/as-far-from-land-as-possible/)   
+[1162. 地图分析](https://leetcode-cn.com/problems/as-far-from-land-as-possible/)    
+[1306. 跳跃游戏 III] (https://leetcode-cn.com/problems/jump-game-iii/)    
