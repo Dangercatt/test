@@ -7,6 +7,7 @@
 [46. 全排列](https://leetcode-cn.com/problems/permutations/)  
 [47. 全排列 II](https://leetcode-cn.com/problems/permutations-ii/)  
 [784. 字母大小写全排列](https://leetcode-cn.com/problems/letter-case-permutation/)  
+[1306. 跳跃游戏 III](https://leetcode-cn.com/problems/jump-game-iii/)  
 线性DP  
 [300. 最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)  
 [1143. 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/)  
@@ -104,4 +105,5 @@
 [210. 课程表 II](https://leetcode-cn.com/problems/course-schedule-iii/)  
 [332. 重新安排行程](https://leetcode-cn.com/problems/reconstruct-itinerary/)    
 [1162. 地图分析](https://leetcode-cn.com/problems/as-far-from-land-as-possible/)    
-[1306. 跳跃游戏 III] (https://leetcode-cn.com/problems/jump-game-iii/)    
+[1306. 跳跃游戏 III](https://leetcode-cn.com/problems/jump-game-iii/)    
+
