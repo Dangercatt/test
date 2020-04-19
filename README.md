@@ -106,4 +106,5 @@
 [332. 重新安排行程](https://leetcode-cn.com/problems/reconstruct-itinerary/)    
 [1162. 地图分析](https://leetcode-cn.com/problems/as-far-from-land-as-possible/)    
 [1306. 跳跃游戏 III](https://leetcode-cn.com/problems/jump-game-iii/)    
-
+分治算法   
+[315. 计算右侧小于当前元素的个数](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/)     
