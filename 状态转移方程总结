@@ -1,6 +1,6 @@
 背包类
 最少硬币凑成指定数量
-```java
+`java
 int[] dp = new int[amount+1];
 for (int i = 1; i <= amount; i++) {
     dp[i] = Integer.MAX_VALUE;
@@ -10,4 +10,4 @@ for (int i = 1; i <= amount; i++) {
         }
     }
 }
-```
+`
