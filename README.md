@@ -107,7 +107,8 @@
 [1162. 地图分析](https://leetcode-cn.com/problems/as-far-from-land-as-possible/)    
 [1306. 跳跃游戏 III](https://leetcode-cn.com/problems/jump-game-iii/)    
 分治算法   
-[315. 计算右侧小于当前元素的个数](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/)    
+[315. 计算右侧小于当前元素的个数](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/)   
+[面试题51. 数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/)   
 并查集  
 [130. 被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/)   
 [305. 岛屿数量 II](https://leetcode-cn.com/problems/number-of-islands-ii/solution/dao-yu-shu-liang-ii-by-leetcode/)   
