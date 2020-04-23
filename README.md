@@ -30,6 +30,7 @@
 区间DP  
 [516. 最长回文子序列](https://leetcode-cn.com/problems/longest-palindromic-subsequence/)     
 [730. 统计不同回文子字符串](https://leetcode-cn.com/problems/count-different-palindromic-subsequences/)   
+[1246. 删除回文子数组](https://leetcode-cn.com/problems/palindrome-removal/)    
 1039. 多边形三角剖分的最低得分 
 664. 奇怪的打印机 
 312. 戳气球  
