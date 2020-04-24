@@ -113,3 +113,5 @@
 并查集  
 [130. 被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/)   
 [305. 岛屿数量 II](https://leetcode-cn.com/problems/number-of-islands-ii/solution/dao-yu-shu-liang-ii-by-leetcode/)   
+算术   
+[50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)   
