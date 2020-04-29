@@ -87,7 +87,9 @@
 [1201. 丑数 III](https://leetcode-cn.com/problems/ugly-number-iii/)  
 [300. 最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)  
 [887. 鸡蛋掉落](https://leetcode-cn.com/problems/super-egg-drop/submissions/).  
-[354. 俄罗斯套娃信封问题](https://leetcode-cn.com/problems/russian-doll-envelopes/). 
+[354. 俄罗斯套娃信封问题](https://leetcode-cn.com/problems/russian-doll-envelopes/)  
+[153. 寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)   
+[154. 寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/)  
 
 计算器实现  
 [面试题 16.26. 计算器](https://leetcode-cn.com/problems/calculator-lcci/)  
