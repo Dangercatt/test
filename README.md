@@ -116,3 +116,4 @@
 算术   
 [50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)   
 [69. x 的平方根](https://leetcode-cn.com/problems/sqrtx/)   
+[面试题65. 不用加减乘除做加法](https://leetcode-cn.com/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof/)   
