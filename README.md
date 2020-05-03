@@ -32,9 +32,10 @@
 [516. 最长回文子序列](https://leetcode-cn.com/problems/longest-palindromic-subsequence/)     
 [730. 统计不同回文子字符串](https://leetcode-cn.com/problems/count-different-palindromic-subsequences/)   
 [1246. 删除回文子数组](https://leetcode-cn.com/problems/palindrome-removal/)    
+[304. 二维区域和检索 - 矩阵不可变](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/)   
 1039. 多边形三角剖分的最低得分 
-664. 奇怪的打印机 
-312. 戳气球  
+664. 奇怪的打印机  
+312. 戳气球   
 背包DP  
 416. 分割等和子集 (01背包-要求恰好取到背包容量)  
 494. 目标和 (01背包-求方案数)  
