@@ -127,4 +127,8 @@
 [303. 区域和检索 - 数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/)   
 [307. 区域和检索 - 数组可修改](https://leetcode-cn.com/problems/range-sum-query-mutable/)  
 贪心算法  
+[55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/)   
 [45. 跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/)   
+前缀树  
+[208. 实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/)   
+[211. 添加与搜索单词 - 数据结构设计](https://leetcode-cn.com/problems/add-and-search-word-data-structure-design/)   
