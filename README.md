@@ -137,3 +137,5 @@
 单调栈   
 [84. 柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/) 
 [739. 每日温度](https://leetcode-cn.com/problems/daily-temperatures/)   
+[496. 下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/)   
+[503. 下一个更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii/)   
