@@ -123,6 +123,7 @@
 [827. 最大人工岛](https://leetcode-cn.com/problems/making-a-large-island/)   
 [1319. 连通网络的操作次数](https://leetcode-cn.com/problems/number-of-operations-to-make-network-connected/)   
 [547. 朋友圈](https://leetcode-cn.com/problems/friend-circles/)   
+[924. 尽量减少恶意软件的传播](https://leetcode-cn.com/problems/minimize-malware-spread/)   
 算术   
 [50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)   
 [69. x 的平方根](https://leetcode-cn.com/problems/sqrtx/)   
