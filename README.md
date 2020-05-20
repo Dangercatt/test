@@ -139,6 +139,7 @@
 [211. 添加与搜索单词 - 数据结构设计](https://leetcode-cn.com/problems/add-and-search-word-data-structure-design/)  
 [212. 单词搜索 II](https://leetcode-cn.com/problems/word-search-ii/)    
 [1268. 搜索推荐系统](https://leetcode-cn.com/problems/search-suggestions-system/)   
+[642. 设计搜索自动补全系统](https://leetcode-cn.com/problems/design-search-autocomplete-system/)    
 单调栈   
 [84. 柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/) 
 [739. 每日温度](https://leetcode-cn.com/problems/daily-temperatures/)   
