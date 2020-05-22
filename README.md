@@ -15,6 +15,7 @@
 [1143. 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/)  
 [120. 三角形最小路径和](https://leetcode-cn.com/problems/triangle/)  
 [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)  
+[1186. 删除一次得到子数组最大和](https://leetcode-cn.com/problems/maximum-subarray-sum-with-one-deletion/)   
 [152. 乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray/)  
 [887. 鸡蛋掉落](https://leetcode-cn.com/problems/super-egg-drop/submissions/)     
 [354. 俄罗斯套娃信封问题](https://leetcode-cn.com/problems/russian-doll-envelopes/)  
@@ -134,6 +135,7 @@
 贪心算法  
 [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/)   
 [45. 跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/)   
+[871. 最低加油次数](https://leetcode-cn.com/problems/minimum-number-of-refueling-stops/)   
 前缀树  
 [208. 实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/)   
 [211. 添加与搜索单词 - 数据结构设计](https://leetcode-cn.com/problems/add-and-search-word-data-structure-design/)  
