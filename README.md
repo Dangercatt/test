@@ -151,3 +151,6 @@
 [503. 下一个更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii/)   
 逆向思维    
 [407. 接雨水 II](https://leetcode-cn.com/problems/trapping-rain-water-ii/)    
+ACM. 
+[1483. 树节点的第 K 个祖先](https://leetcode-cn.com/problems/kth-ancestor-of-a-tree-node/)    
+
