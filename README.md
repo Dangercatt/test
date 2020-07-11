@@ -97,6 +97,7 @@
 [154. 寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/)   
 [33. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)  
 [81. 搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/)   
+[1044. 最长重复子串](https://leetcode-cn.com/problems/longest-duplicate-substring/)  
 
 计算器实现  
 [面试题 16.26. 计算器](https://leetcode-cn.com/problems/calculator-lcci/)  
@@ -151,6 +152,7 @@
 [503. 下一个更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii/)   
 逆向思维    
 [407. 接雨水 II](https://leetcode-cn.com/problems/trapping-rain-water-ii/)    
-ACM. 
-[1483. 树节点的第 K 个祖先](https://leetcode-cn.com/problems/kth-ancestor-of-a-tree-node/)    
-
+ACM   
+[1483. 树节点的第 K 个祖先](https://leetcode-cn.com/problems/kth-ancestor-of-a-tree-node/) 
+字符串   
+[1044. 最长重复子串](https://leetcode-cn.com/problems/longest-duplicate-substring/)  
